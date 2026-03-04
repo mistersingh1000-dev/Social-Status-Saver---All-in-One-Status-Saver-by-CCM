@@ -1,0 +1,11 @@
+server/
+shared/
+scripts/
+drizzle.config.ts
+.expo/
+.upm/
+.local/
+.cache/
+static-build/
+attached_assets/
+node_modules/
