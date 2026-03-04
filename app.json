@@ -45,9 +45,7 @@
           "savePhotosPermission": "Allow Social Status Saver to save media to your gallery.",
           "isAccessMediaLocationEnabled": true
         }
-      ],
-      "expo-clipboard",
-      "expo-file-system"
+      ]
     ],
     "experiments": {
       "typedRoutes": true,
