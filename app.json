@@ -6,7 +6,7 @@
     "orientation": "portrait",
     "scheme": "statusaver",
     "userInterfaceStyle": "automatic",
-    "newArchEnabled": false,
+    "newArchEnabled": true,
     "splash": {
       "backgroundColor": "#0A1628"
     },
